@@ -1,13 +1,15 @@
 # simpligility
 
-The official GitHub profile for [simpligility technologies inc](https://simpligility.ca/):
+The official GitHub profile for [simpligility technologies
+inc](https://simpligility.ca/):
 
-- All efforts lead by Manfred Moser [@mosabua](https://github.com/mosabua)
-- Original developments and forks for contributions to many other open source
-  projects
-- Focus technologies include Java, Trino, Maven, Android and many others
-- Contributions welcome
+- All efforts led by Manfred Moser [@mosabua](https://github.com/mosabua).
+- Repositories include original developments and forks for contributions to many
+  other open source projects.
+- Focus technologies include Java, Trino, Maven, and Android vary beyond them
+  over time.
+- Contributions and other collaboration is always welcome.
 
 Check out the [contributions of
 Manfred](https://github.com/simpligility/contributions) that go beyond his day
-job and consider [sponsoring the work](https://github.com/sponsors/mosabua).
+job and consider [sponsoring his work](https://github.com/sponsors/mosabua).
