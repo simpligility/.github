@@ -12,4 +12,6 @@ inc](https://simpligility.ca/):
 
 Check out the [contributions of
 Manfred](https://github.com/simpligility/contributions) that go beyond his day
-job and consider [sponsoring his work](https://github.com/sponsors/mosabua).
+job and consider sponsoring his work:
+
+## [:heart: Sponsor and support Manfred](https://github.com/sponsors/mosabua))
